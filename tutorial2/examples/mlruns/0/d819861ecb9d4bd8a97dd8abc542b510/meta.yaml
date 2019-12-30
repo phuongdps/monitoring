@@ -1,0 +1,15 @@
+artifact_uri: file:///home/phuong/PycharmProjects/monitoring/tutorial2/examples/mlruns/0/d819861ecb9d4bd8a97dd8abc542b510/artifacts
+end_time: 1577702398223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d819861ecb9d4bd8a97dd8abc542b510
+run_uuid: d819861ecb9d4bd8a97dd8abc542b510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1577702398165
+status: 3
+tags: []
+user_id: phuong
